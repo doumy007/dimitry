@@ -16,6 +16,7 @@
 </head>
 <body>
     <canvas id="particles-canvas"></canvas>
+    <div class="custom-cursor" id="customCursor"></div>
 
     <nav class="navbar" id="navbar">
         <div class="nav-container">
@@ -41,7 +42,7 @@
             <p>&copy; {{ date('Y') }} Dimitry Jacques. Todos los derechos reservados.</p>
             <div class="footer-links">
                 <a href="https://github.com/doumy007" target="_blank" rel="noopener" class="footer-link">GitHub</a>
-                <a href="https://linkedin.com/in/dimitryjacques" target="_blank" rel="noopener" class="footer-link">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/dimitry-jacques-024470149" target="_blank" rel="noopener" class="footer-link">LinkedIn</a>
             </div>
         </div>
     </footer>
